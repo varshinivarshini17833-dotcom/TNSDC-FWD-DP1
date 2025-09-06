@@ -2,5 +2,5 @@
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/varshini-varshini-the-typescripter/pen/empbjXK](https://codepen.io/varshini-varshini-the-typescripter/pen/empbjXK).
+Original URL: [https://varshinivarshini17833-dotcom.github.io/TNSDC-FWD-DP1/](https://varshinivarshini17833-dotcom.github.io/TNSDC-FWD-DP1/).
 
